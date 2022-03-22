@@ -25,7 +25,6 @@ main section{
     display: flex;
     gap: 10px;
     justify-content: space-around;
-    /* align-items: center; */
     flex-wrap: wrap;
 }
 .soloDesktop{
@@ -42,7 +41,6 @@ article{
     background-color: #F3F3F3;
 }
 .base{
-    /* font-size: 0; */
     width: 100%;
     border-radius: 8% 8% 0 0;
 }
